@@ -1,6 +1,6 @@
 <?php
 
-namespace Api\Services;
+namespace Artisan\Services;
 
 use Symfony\Component\Mailer\Transport;
 use Symfony\Component\Mailer\Mailer;
