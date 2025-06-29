@@ -56,4 +56,5 @@ class Email extends SymfonyEmail
         }
         self::$mailer->send($this);
     }
+
 }
